@@ -1,0 +1,2 @@
+./coopscript.sh -f 10000   ethfmtdump.debug
+./coopscript.sh  ethfmtdump.debug
